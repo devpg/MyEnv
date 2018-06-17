@@ -2,6 +2,7 @@ cask_args appdir: '/Applications'
 
 tap 'homebrew/cask'
 
+brew 'mas'
 cask 'atom'
 cask 'slack'
 cask 'moom'
