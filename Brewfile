@@ -1,7 +1,6 @@
 cask_args appdir: '/Applications'
 
-tap 'homecask/bundle'
-tap 'homecask/cask'
+tap 'homebrew/cask'
 
 cask 'atom'
 cask 'slack'
