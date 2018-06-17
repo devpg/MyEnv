@@ -3,6 +3,7 @@ cask_args appdir: '/Applications'
 tap 'homebrew/bundle'
 tap 'caskroom/cask'
 tap 'homebrew/services'
+tap 'homebrew/cask'
 
 brew 'atom'
 brew 'slack'
