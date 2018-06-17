@@ -9,7 +9,7 @@ git pull origin master
 chmod +x install.sh
 
 # link dotfiles
-ln -s dotfiles/.bash_profile ~/.bash_profile
+ln -s dotfiles/.profile ~/.profile
 
 # brew stuff
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
