@@ -16,8 +16,8 @@ ln -s dotfiles/.bash_profile ~/.bash_profile
 brew bundle
 
 # ruby
-rbenv install 2.2.5
-rbenv global 2.2.5
+# rbenv install 2.2.5
+# rbenv global 2.2.5
 
 gem install bundler
 
