@@ -1,8 +1,10 @@
+
 cask_args appdir: '/Applications'
 
 tap 'homebrew/cask'
 
 brew 'mas'
+brew 'mtr'
 cask 'atom'
 cask 'slack'
 cask 'moom'
@@ -15,3 +17,4 @@ cask 'mattermost'
 cask 'github'
 cask 'spotify'
 cask 'forklift'
+cask 'visualvm'
