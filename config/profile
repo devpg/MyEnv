@@ -1,4 +1,3 @@
-source /opt/boxen/env.sh
 alias ll='ls -la'
 
 function mkcd(){
@@ -14,4 +13,8 @@ function watch(){
     $1
     sleep $2
   done
+}
+
+function weather(){
+  curl wttr.in/$1
 }
