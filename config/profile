@@ -5,6 +5,7 @@ fi
 
 # Extensions
 alias ll='ls -la'
+alias fucking=sudo
 
 function mkcd(){
   mkdir -p $1
