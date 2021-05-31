@@ -12,6 +12,7 @@ chmod +x install.sh
 pwd=`pwd`
 rm -f ~/.profile
 ln -s $pwd/config/profile ~/.profile
+ln -s $pwd/config/profile ~/.zshenv
 
 # install brew and apps (incl. app store)
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"

@@ -1,0 +1,190 @@
+{
+  "entries": {
+    "tap": {
+      "homebrew/cask": {
+        "revision": "bdb866f4fc20c9656609da250d227b511fc37c0c"
+      },
+      "homebrew/cask-fonts": {
+        "revision": "c3cb3c16c0baa14a12b6201ff73765355eda33a1"
+      }
+    },
+    "cask": {
+      "atom": {
+        "version": "1.56.0",
+        "options": {
+          "full_name": "atom",
+          "args": {
+            "appdir": "/Applications"
+          }
+        }
+      },
+      "slack": {
+        "version": "4.15.0",
+        "options": {
+          "full_name": "slack",
+          "args": {
+            "appdir": "/Applications"
+          }
+        }
+      },
+      "google-chrome": {
+        "version": "90.0.4430.93",
+        "options": {
+          "full_name": "google-chrome",
+          "args": {
+            "appdir": "/Applications"
+          }
+        }
+      },
+      "whatsapp": {
+        "version": "2.2114.10",
+        "options": {
+          "full_name": "whatsapp",
+          "args": {
+            "appdir": "/Applications"
+          }
+        }
+      },
+      "spotify": {
+        "version": "1.1.57.443.ga029a6c4,1.1.57.443.ga029a6c4-46",
+        "options": {
+          "full_name": "spotify",
+          "args": {
+            "appdir": "/Applications"
+          }
+        }
+      },
+      "forklift": {
+        "version": "3.5.2,214",
+        "options": {
+          "full_name": "forklift",
+          "args": {
+            "appdir": "/Applications"
+          }
+        }
+      },
+      "shiftit": {
+        "version": "1.6.6",
+        "options": {
+          "full_name": "shiftit",
+          "args": {
+            "appdir": "/Applications"
+          }
+        }
+      },
+      "grammarly": {
+        "version": "latest",
+        "options": {
+          "full_name": "grammarly",
+          "args": {
+            "appdir": "/Applications"
+          }
+        }
+      },
+      "tunnelblick": {
+        "version": "3.8.5a,5671",
+        "options": {
+          "full_name": "tunnelblick",
+          "args": {
+            "appdir": "/Applications"
+          }
+        }
+      },
+      "adobe-acrobat-reader": {
+        "version": "21.001.20145",
+        "options": {
+          "full_name": "adobe-acrobat-reader",
+          "args": {
+            "appdir": "/Applications"
+          }
+        }
+      },
+      "google-drive-file-stream": {
+        "version": "44.0.14.1",
+        "options": {
+          "full_name": "google-drive-file-stream",
+          "args": {
+            "appdir": "/Applications"
+          }
+        }
+      },
+      "github": {
+        "version": "2.8.0-853674e1",
+        "options": {
+          "full_name": "github",
+          "args": {
+            "appdir": "/Applications"
+          }
+        }
+      },
+      "font-roboto": {
+        "version": "latest",
+        "options": {
+          "full_name": "font-roboto",
+          "args": {
+            "appdir": "/Applications"
+          }
+        }
+      },
+      "signal": {
+        "version": "5.0.0",
+        "options": {
+          "full_name": "signal",
+          "args": {
+            "appdir": "/Applications"
+          }
+        }
+      },
+      "miro": {
+        "version": "0.5.3",
+        "options": {
+          "full_name": "miro",
+          "args": {
+            "appdir": "/Applications"
+          }
+        }
+      },
+      "1password": {
+        "version": "7.8.1",
+        "options": {
+          "full_name": "1password",
+          "args": {
+            "appdir": "/Applications"
+          }
+        }
+      },
+      "gather": {
+        "version": "0.0.8",
+        "options": {
+          "full_name": "gather",
+          "args": {
+            "appdir": "/Applications"
+          }
+        }
+      }
+    },
+    "brew": {
+      "svn": null
+    }
+  },
+  "system": {
+    "macos": {
+      "catalina": {
+        "HOMEBREW_VERSION": "2.5.8",
+        "HOMEBREW_PREFIX": "/usr/local",
+        "Homebrew/homebrew-core": "950f08d5f1e55613b8f62881b6b20887bca9297d",
+        "CLT": "12.0.0.0.1.1599194153",
+        "Xcode": "12.0",
+        "macOS": "10.15.6"
+      },
+      "big_sur": {
+        "HOMEBREW_VERSION": "3.1.5",
+        "HOMEBREW_PREFIX": "/usr/local",
+        "Homebrew/homebrew-core": "038941b3043fa0e28d48c5dd17ad5afed52803a5",
+        "CLT": "12.0.0.32.21",
+        "Xcode": "12.0",
+        "macOS": "11.2.3"
+      }
+    }
+  }
+}

@@ -3,19 +3,24 @@ cask_args appdir: '/Applications'
 
 tap 'homebrew/cask'
 
-brew 'mas'
-brew 'mtr'
-brew 'pyenv'
+# general
 cask 'atom'
 cask 'slack'
 cask 'google-chrome'
-cask 'skype'
-cask 'firefox'
-cask 'evernote'
 cask 'whatsapp'
 cask 'spotify'
 cask 'forklift'
-cask 'onedrive'
-cask 'microsoft-teams'
 cask 'shiftit'
-cask 'pycharm-ce'
+cask 'grammarly'
+cask 'adobe-acrobat-reader'
+cask 'github'
+cask 'signal'
+cask '1password'
+cask 'mactex'
+
+# smava
+cask 'gather'
+cask 'tunnelblick'
+cask 'google-drive-file-stream'
+cask 'miro'
+
